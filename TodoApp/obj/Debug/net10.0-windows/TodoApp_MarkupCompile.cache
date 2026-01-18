@@ -1,5 +1,5 @@
 ﻿TodoApp
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_O
 C:\Users\user1\gitrepo\dotnet1\TodoApp\App.xaml
 11407045341
 
-8-311321298
+61149203297
 205-764538886
 MainWindow.xaml;
 
-True
+False
 
